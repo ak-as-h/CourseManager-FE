@@ -1,4 +1,4 @@
-export const BASEURL = " https://render.com/docs/web-services#port-binding/courses"
+export const BASEURL = " https://coursemanager-be-p19v.onrender.com"
 
 
 //dev - http://localhost:3000
